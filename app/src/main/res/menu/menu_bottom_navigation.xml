@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        />
+    <item
+        android:id="@+id/menu_notification"
+        android:icon="@drawable/bellmusicaltool"
+        android:title="Notification" />
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/usershape"
+        android:title="Profile" />
+    <item
+        android:id="@+id/menu_library"
+        android:icon="@drawable/book"
+        android:title="Library" />
+    <item
+        android:id="@+id/menu_shop"
+        android:icon="@drawable/shoppingcartblackshape"
+        android:title="Shop" />
+</menu>

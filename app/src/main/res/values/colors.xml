@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE7D6A</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bckground">#ADE4FF</color>
+    <color name="blackText">#000000</color>
+    <color name="textColorDefault">#CFB6E5</color>
+    <color name="buttonColorDefault">#FFD9E0</color>
+    <color name="actionBarColorHome">#F7CDDB</color>
+    <color name="actionBarColorLibrary">#AEDAC6</color>
+    <color name="actionBarColorNotification">#FFFFD8</color>
+    <color name="actionBarColorProfile">#EAEBFF</color>
+    <color name="actionBarColorShop">#ADE4FF</color>
+    <color name="shadow">#D3D3D3</color>
+
+</resources>
+

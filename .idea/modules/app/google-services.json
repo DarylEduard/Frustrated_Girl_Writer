@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426223936397",
+    "firebase_url": "https://frustratedgirlwriter-d56e9.firebaseio.com",
+    "project_id": "frustratedgirlwriter-d56e9",
+    "storage_bucket": "frustratedgirlwriter-d56e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426223936397:android:3e36a3764097b1eb0313c4",
+        "android_client_info": {
+          "package_name": "com.example.frustratedgirlwriter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426223936397-5mo29gt293ms1c8vu788847sh5astlur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frustratedgirlwriter",
+            "certificate_hash": "b6f78ecf6c19d52159de8f1866cfea1b4c46f2b5"
+          }
+        },
+        {
+          "client_id": "426223936397-e6g5c9j62nm114pgot25cdbvg8n66q1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7TPH7BrS-FU0ynz1lZJNmAAbXmrtSx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426223936397-e6g5c9j62nm114pgot25cdbvg8n66q1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
